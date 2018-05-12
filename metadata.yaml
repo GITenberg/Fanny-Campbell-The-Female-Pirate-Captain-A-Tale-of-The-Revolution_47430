@@ -1,4 +1,8 @@
 _repo: Fanny-Campbell-The-Female-Pirate-Captain-A-Tale-of-The-Revolution_47430
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47430-h/images/cover.jpg
 creator:
   author:
     agent_name: Ballou, Maturin Murray
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1543
     wikipedia: http://en.wikipedia.org/wiki/Maturin_Murray_Ballou
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47430#Fanny-Campbell-The-Female-Pirate-Captain-A-Tale-of-The-Revolution
 gutenberg_issued: '2014-11-22'
 gutenberg_type: Text
 identifiers:
